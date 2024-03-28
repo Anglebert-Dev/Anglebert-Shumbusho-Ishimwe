@@ -4,7 +4,7 @@
       <div class="col-md-7 heading-section text-center ftco-animate fadeInUp ftco-animated">
         <h1 class="big big-2">Contact</h1>
         <h2 class="mb-4">Contact Me</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+        <p>Excited to kickstart your project journey? Reach out to me today to explore how we can leverage our array of services to drive your success. Let's connect, collaborate, and craft something extraordinary together!</p>
       </div>
     </div>
     <div class="row d-flex contact-info mb-5">
@@ -15,7 +15,7 @@
           </div>
           <div>
             <h3 class="mb-4">Address</h3>
-            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+            <p>Kigali, Rwanda</p>
           </div>
         </div>
       </div>
@@ -26,7 +26,7 @@
           </div>
           <div>
             <h3 class="mb-4">Contact Number</h3>
-            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+            <p><a href="tel://791746914">+250 791-746-914</a></p>
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@
           </div>
           <div>
             <h3 class="mb-4">Email Address</h3>
-            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+            <p><a href="mailto:anglebert.dev@gmail.com">anglebert.dev@gmail.com</a></p>
           </div>
         </div>
       </div>
@@ -48,7 +48,7 @@
           </div>
           <div>
             <h3 class="mb-4">Website</h3>
-            <p><a href="#">yoursite.com</a></p>
+            <p><a href="#">anglebertshumbusho.com</a></p>
           </div>
         </div>
       </div>
@@ -58,19 +58,19 @@
         <form action="mail.php" id="contactForm" class="bg-light p-4 p-md-5 contact-form" method="POST">
           <div class="form-group">
             <input type="text" name="name" class="form-control" placeholder="Your Name">
-            <div class="error-message"  style="font-size: 12px; color:#3e64ff;" id="name-error"></div>
+            <div class="error-message" style="font-size: 12px; color:#3e64ff;" id="name-error"></div>
           </div>
           <div class="form-group">
             <input type="text" name="email" class="form-control" placeholder="Your Email">
-            <div class="error-message"  style="font-size: 12px; color:#3e64ff;" id="email-error"></div>
+            <div class="error-message" style="font-size: 12px; color:#3e64ff;" id="email-error"></div>
           </div>
           <div class="form-group">
             <input type="text" name="subject" class="form-control" placeholder="Subject">
-            <div class="error-message"  style="font-size: 12px; color:#3e64ff;" id="subject-error"></div>
+            <div class="error-message" style="font-size: 12px; color:#3e64ff;" id="subject-error"></div>
           </div>
           <div class="form-group">
             <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-            <div class="error-message"  style="font-size: 12px; color:#3e64ff;" id="message-error"></div>
+            <div class="error-message" style="font-size: 12px; color:#3e64ff;" id="message-error"></div>
           </div>
           <div class="form-group">
             <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">

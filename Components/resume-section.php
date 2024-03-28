@@ -20,9 +20,9 @@
             </div>
             <div class="text pl-3">
               <span class="date">2020-2023</span>
-              <h2>Software Engineering  &amp; Embedded System</h2>
+              <h2>Software Engineering &amp; Embedded System</h2>
               <span class="position">Rwanda Coding Academy</span>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+              <p>At Rwanda Coding Academy, my educational journey was defined by a rich and diverse curriculum tailored to cultivate expertise in software development and computer science. Spanning a multitude of subjects, the academy provided an immersive learning environment where theoretical knowledge seamlessly intersected with practical application. From the foundational principles of Embedded Systems to the intricacies of Data Structures and Algorithms using C & C++, each subject was a stepping stone towards mastering the intricacies of modern technology. Through hands-on experiences in Software Testing and Deployment (DevOps), Restful Services and Web Application Development, and Object-Oriented Programming with Java, I not only honed my technical prowess but also developed the critical thinking and problem-solving skills essential for success in the ever-evolving tech landscape.</p>
             </div>
           </div>
           <div class="resume-wrap d-flex ftco-animate">
@@ -33,7 +33,7 @@
               <span class="date">2017-2019</span>
               <h2>Ordinary National Education</h2>
               <span class="position">Lycee De Kigali</span>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+              <p>At Lycée de Kigali, my educational journey during grades 7, 8, and 9 was characterized by a comprehensive curriculum designed to provide a well-rounded academic foundation. The institution prioritized academic excellence while fostering holistic development among its students. Throughout these formative years, I engaged in a diverse array of subjects aimed at nurturing intellectual curiosity and critical thinking skills. From fundamental subjects like Mathematics, Science, and Languages to Humanities and Social Sciences, Lycée de Kigali offered a balanced education that prepared students for future academic pursuits and personal growth. With a dedicated faculty and a supportive learning environment, I flourished academically and developed a deep appreciation for lifelong learning.</p>
             </div>
           </div>
         </div>

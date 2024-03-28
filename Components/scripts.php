@@ -14,18 +14,18 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
 <script async="" src="../../gtag/js?id=UA-23581568-13"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-23581568-13');
+  gtag('config', 'UA-23581568-13');
 </script>
 
 
-<!-- 
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const constraints = {
@@ -81,4 +81,4 @@
       }
     });
   });
-</script> -->
+</script>

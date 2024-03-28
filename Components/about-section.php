@@ -13,7 +13,9 @@
           <div class="col-md-12 heading-section ftco-animate fadeInUp ftco-animated">
             <h1 class="big">About</h1>
             <h2 class="mb-4">About Me</h2>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p style="font-size: 18px;">Hey there! I'm Anglebert, a passionate programmer with a strong foundation in weband mobile design and development, complemented by expertise in digital marketing, graphic design, content creation, UX/UI design, video production, and photography.</p>
+            <p style="font-size: 18px;">With a focus on programming, I excel in crafting robust and innovative solutions that blend cutting-edge technology with captivating design. From developing dynamic websites and applications to optimizing user experiences and creating visually compelling content, I bring a multifaceted approach to every project.</p>
+            <p style="font-size: 18px;">Let's collaborate to turn your ideas into reality and elevate your online presence with tailored programming solutions.</p>
             <ul class="about-info mt-4 px-md-0 px-2">
               <li class="d-flex"><span>Name:</span> <span>Anglebert Shumbusho Ishimwe</span></li>
               <li class="d-flex"><span>Date of birth:</span> <span>January 05, 2004</span></li>
@@ -27,10 +29,10 @@
         <div class="counter-wrap ftco-animate d-flex mt-md-3 fadeInUp ftco-animated">
           <div class="text">
             <p class="mb-4">
-              <span class="number" data-number="30">30</span>
+              <span class="number" data-number="10">10</span>
               <span>Project complete</span>
             </p>
-            <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+            <p><a href="https://docs.google.com/document/d/1lNfKs-jyE17D_SMqFoASuIQoHyyQplYxEQ_aMBVvD0I/edit?usp=sharing" target="_blank" class="btn btn-primary py-3 px-3">Download CV</a></p>
           </div>
         </div>
       </div>

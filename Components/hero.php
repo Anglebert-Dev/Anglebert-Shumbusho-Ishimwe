@@ -7,7 +7,8 @@
           <span class="subheading">Hey! I am</span>
           <h1>Anglebert Shumbusho</h1>
           <h2>I'm a
-            <span class="txt-rotate" data-period="2000" data-rotate="[ &quot;Web Developer.&quot;, &quot;Designer.&quot;, &quot;Photographer.&quot;, &quot;Marketer.&quot;]"><span class="wrap">Developer.</span></span>
+            <!-- <span class="txt-rotate" data-period="2000" data-rotate="[ &quot;Web Developer.&quot;, &quot;Designer.&quot;, &quot;Photographer.&quot;, &quot;Marketer.&quot;]"><span class="wrap">Developer.</span></span> -->
+            <span class="txt-rotate" data-period="500" data-rotate="[ &quot;Web Developer.&quot;, &quot;Graphic Designer.&quot;, &quot;Photographer.&quot;, &quot;Digital marketing.&quot;,&quot;,&quot;UX/UI design.&quot;, &quot;video production and editing.&quot;, &quot;Marketer.&quot;]"><span class="wrap">Developer.</span></span>
           </h2>
         </div>
       </div>
